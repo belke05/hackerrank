@@ -1,4 +1,4 @@
-# java_hackerrank
+# hackerrank
 
 '''
 
