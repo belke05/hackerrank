@@ -1,5 +1,7 @@
 # java_hackerrank
 
 '''
-scripts for hacker rank challenges made via java
+
+scripts for hacker rank challenges 
+
 '''
